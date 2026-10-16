@@ -33,6 +33,9 @@ An agentic AI customer-support application built with Python and the OpenAI Resp
 ```text
 project-4-ai-customer-support-agent/
 ├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
 ├── src/
 │   ├── __init__.py
 │   ├── agent.py
@@ -40,11 +43,8 @@ project-4-ai-customer-support-agent/
 ├── tests/
 │   ├── __init__.py
 │   └── test_agent_tools.py
-├── data/
-│   └── support_faq.txt
-├── .env
-├── .gitignore
-└── README.md
+└── data/
+    └── support_faq.txt
 ```
 
 ## Setup
